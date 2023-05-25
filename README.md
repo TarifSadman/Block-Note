@@ -1,4 +1,4 @@
-#BlockNote
+# BlockNote
 
 BlockNote is a block-based rich-text editor for React, focused on providing a great out-of-the-box experience with minimal setup.
 
